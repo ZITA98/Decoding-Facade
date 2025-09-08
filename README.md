@@ -9,6 +9,3 @@ This repository contains a building analysis system with four key components:
 
 2. **Grad-CAM Visualization** - Provides visual explanations for classification decisions
 
-3. **YOLOv5 Building Component Detection** - Detects and localizes architectural components
-
-4. **Phylogenetic Analysis** - Constructs evolutionary relationships using external software (PAST 4.17 & SplitsTree6 6.4.7) with provided workflows and interface scripts
